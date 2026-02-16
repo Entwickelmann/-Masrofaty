@@ -43,7 +43,6 @@
 - مزود OCR السحابي (إذا فعّلت OCR السحابي).
 - مزود النسخ الاحتياطي/المزامنة (إذا فعّلت المزامنة).
 
-> ملاحظة: Google Play يطلب منك الإفصاح عن جمع/مشاركة البيانات بما في ذلك ما تجمعه SDKs الطرف الثالث. [1](https://www.4each.com.br/threads/flutter-flutter-isar-database-v3-1-0-1-namespace-not-defined.53836/)[2](https://github.com/isar/isar/issues/277)
 
 ### 6) الأمان
 - البيانات محفوظة محليًا افتراضيًا.
@@ -98,7 +97,6 @@ We do not sell your data. Limited data may be shared with:
 - Cloud OCR provider (if enabled)
 - Cloud backup/sync provider (if enabled)
 
-Google requires accurate disclosure including third-party SDK practices. [1](https://www.4each.com.br/threads/flutter-flutter-isar-database-v3-1-0-1-namespace-not-defined.53836/)[2](https://github.com/isar/isar/issues/277)
 
 ### 6) Security
 - Local storage by default
