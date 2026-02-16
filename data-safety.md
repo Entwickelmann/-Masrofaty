@@ -1,8 +1,6 @@
 # Masrofaty — Google Play Data Safety (Summary)
 **Last updated:** 2026-02-16
 
-> هذا المستند ملخص لمساعدتك على تعبئة نموذج Data Safety داخل Google Play Console. Google يتطلب إفصاحًا دقيقًا عن جمع/مشاركة البيانات، بما في ذلك بيانات SDKs الطرف الثالث. [1](https://www.4each.com.br/threads/flutter-flutter-isar-database-v3-1-0-1-namespace-not-defined.53836/)[2](https://github.com/isar/isar/issues/277)
-
 ---
 
 ## A) What data is collected? (What the app/SDKs may process)
